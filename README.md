@@ -20,7 +20,7 @@
 ```
 
 
-![TASK_1](img/Screenshot_5.png)
+![TASK_1](img/Screenshot_51.png)
 
 
 ---
